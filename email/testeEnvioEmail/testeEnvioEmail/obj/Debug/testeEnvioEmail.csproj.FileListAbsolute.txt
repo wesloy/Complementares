@@ -1,0 +1,48 @@
+c:\users\wesleyel\documents\visual studio 2017\Projects\testeEnvioEmail\testeEnvioEmail\bin\Debug\testeEnvioEmail.exe.config
+c:\users\wesleyel\documents\visual studio 2017\Projects\testeEnvioEmail\testeEnvioEmail\bin\Debug\testeEnvioEmail.exe
+c:\users\wesleyel\documents\visual studio 2017\Projects\testeEnvioEmail\testeEnvioEmail\bin\Debug\testeEnvioEmail.pdb
+c:\users\wesleyel\documents\visual studio 2017\Projects\testeEnvioEmail\testeEnvioEmail\obj\Debug\testeEnvioEmail.csprojAssemblyReference.cache
+c:\users\wesleyel\documents\visual studio 2017\Projects\testeEnvioEmail\testeEnvioEmail\obj\Debug\testeEnvioEmail.Properties.Resources.resources
+c:\users\wesleyel\documents\visual studio 2017\Projects\testeEnvioEmail\testeEnvioEmail\obj\Debug\testeEnvioEmail.csproj.GenerateResource.cache
+c:\users\wesleyel\documents\visual studio 2017\Projects\testeEnvioEmail\testeEnvioEmail\obj\Debug\testeEnvioEmail.csproj.CoreCompileInputs.cache
+c:\users\wesleyel\documents\visual studio 2017\Projects\testeEnvioEmail\testeEnvioEmail\obj\Debug\testeEnvioEmail.exe
+c:\users\wesleyel\documents\visual studio 2017\Projects\testeEnvioEmail\testeEnvioEmail\obj\Debug\testeEnvioEmail.pdb
+c:\users\wesleyel\documents\visual studio 2017\Projects\testeEnvioEmail\testeEnvioEmail\obj\Debug\testeEnvioEmail.frmEnviarEmail.resources
+C:\Users\a053463\OneDrive - Grupo Algar\Seguranca_Informacao\projetos_vs\testeEnvioEmail\testeEnvioEmail\bin\Debug\testeEnvioEmail.exe.config
+C:\Users\a053463\OneDrive - Grupo Algar\Seguranca_Informacao\projetos_vs\testeEnvioEmail\testeEnvioEmail\bin\Debug\testeEnvioEmail.exe
+C:\Users\a053463\OneDrive - Grupo Algar\Seguranca_Informacao\projetos_vs\testeEnvioEmail\testeEnvioEmail\bin\Debug\testeEnvioEmail.pdb
+C:\Users\a053463\OneDrive - Grupo Algar\Seguranca_Informacao\projetos_vs\testeEnvioEmail\testeEnvioEmail\obj\Debug\testeEnvioEmail.frmEnviarEmail.resources
+C:\Users\a053463\OneDrive - Grupo Algar\Seguranca_Informacao\projetos_vs\testeEnvioEmail\testeEnvioEmail\obj\Debug\testeEnvioEmail.Properties.Resources.resources
+C:\Users\a053463\OneDrive - Grupo Algar\Seguranca_Informacao\projetos_vs\testeEnvioEmail\testeEnvioEmail\obj\Debug\testeEnvioEmail.csproj.GenerateResource.cache
+C:\Users\a053463\OneDrive - Grupo Algar\Seguranca_Informacao\projetos_vs\testeEnvioEmail\testeEnvioEmail\obj\Debug\testeEnvioEmail.csproj.CoreCompileInputs.cache
+C:\Users\a053463\OneDrive - Grupo Algar\Seguranca_Informacao\projetos_vs\testeEnvioEmail\testeEnvioEmail\obj\Debug\testeEnvioEmail.exe
+C:\Users\a053463\OneDrive - Grupo Algar\Seguranca_Informacao\projetos_vs\testeEnvioEmail\testeEnvioEmail\obj\Debug\testeEnvioEmail.pdb
+C:\Users\a053463\OneDrive - Grupo Algar\Seguranca_Informacao\projetos_vs\testeEnvioEmail\testeEnvioEmail\bin\Debug\email_smtp.dll
+C:\Users\a053463\OneDrive - Grupo Algar\Seguranca_Informacao\projetos_vs\testeEnvioEmail\testeEnvioEmail\bin\Debug\email_smtp.pdb
+C:\Users\a053463\OneDrive - Grupo Algar\Seguranca_Informacao\projetos_vs\testeEnvioEmail\testeEnvioEmail\obj\Debug\testeEnvioEmail.csproj.CopyComplete
+C:\Users\a053463\OneDrive - Grupo Algar\Seguranca_Informacao\projetos_vs\testeEnvioEmail\testeEnvioEmail\obj\Debug\testeEnvioEmail.csprojAssemblyReference.cache
+C:\Users\a053463-old\SVN\seguranca\testeEnvioEmail\testeEnvioEmail\obj\Debug\testeEnvioEmail.csprojAssemblyReference.cache
+C:\Users\a053463-old\SVN\seguranca\testeEnvioEmail\testeEnvioEmail\obj\Debug\testeEnvioEmail.frmEnviarEmail.resources
+C:\Users\a053463-old\SVN\seguranca\testeEnvioEmail\testeEnvioEmail\obj\Debug\testeEnvioEmail.Properties.Resources.resources
+C:\Users\a053463-old\SVN\seguranca\testeEnvioEmail\testeEnvioEmail\obj\Debug\testeEnvioEmail.csproj.GenerateResource.cache
+C:\Users\a053463-old\SVN\seguranca\testeEnvioEmail\testeEnvioEmail\obj\Debug\testeEnvioEmail.csproj.CoreCompileInputs.cache
+C:\Users\a053463-old\SVN\seguranca\testeEnvioEmail\testeEnvioEmail\obj\Debug\testeEnvioEmail.exe
+C:\Users\a053463-old\SVN\seguranca\testeEnvioEmail\testeEnvioEmail\obj\Debug\testeEnvioEmail.pdb
+C:\Users\a053463-old\SVN\seguranca\testeEnvioEmail\testeEnvioEmail\bin\Debug\testeEnvioEmail.exe.config
+C:\Users\a053463-old\SVN\seguranca\testeEnvioEmail\testeEnvioEmail\bin\Debug\testeEnvioEmail.exe
+C:\Users\a053463-old\SVN\seguranca\testeEnvioEmail\testeEnvioEmail\bin\Debug\testeEnvioEmail.pdb
+C:\Users\a053463-old\SVN\seguranca\testeEnvioEmail\testeEnvioEmail\bin\Debug\email_smtp.dll
+C:\Users\a053463-old\SVN\seguranca\testeEnvioEmail\testeEnvioEmail\bin\Debug\email_smtp.pdb
+C:\Users\a053463-old\SVN\seguranca\testeEnvioEmail\testeEnvioEmail\obj\Debug\testeEnvioEmail.csproj.CopyComplete
+C:\Users\a053463-old\SVN\seguranca\testeEnvioEmail\testeEnvioEmail\bin\Debug\email_dynamics.dll
+C:\Users\a053463-old\SVN\seguranca\testeEnvioEmail\testeEnvioEmail\bin\Debug\Algar.Dynamics.Framework.dll
+C:\Users\a053463-old\SVN\seguranca\testeEnvioEmail\testeEnvioEmail\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\a053463-old\SVN\seguranca\testeEnvioEmail\testeEnvioEmail\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\a053463-old\SVN\seguranca\testeEnvioEmail\testeEnvioEmail\bin\Debug\Microsoft.Xrm.Client.dll
+C:\Users\a053463-old\SVN\seguranca\testeEnvioEmail\testeEnvioEmail\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+C:\Users\a053463-old\SVN\seguranca\testeEnvioEmail\testeEnvioEmail\bin\Debug\email_dynamics.pdb
+C:\Users\a053463-old\SVN\seguranca\testeEnvioEmail\testeEnvioEmail\bin\Debug\email_dynamics.dll.config
+C:\Users\a053463-old\SVN\seguranca\testeEnvioEmail\testeEnvioEmail\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\a053463-old\SVN\seguranca\testeEnvioEmail\testeEnvioEmail\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\a053463-old\SVN\seguranca\testeEnvioEmail\testeEnvioEmail\bin\Debug\Microsoft.Xrm.Sdk.Deployment.xml
+C:\Users\a053463-old\SVN\seguranca\testeEnvioEmail\testeEnvioEmail\obj\Debug\testeEnvioEmail.exe.config
