@@ -1,0 +1,11 @@
+C:\Users\wesleyel\Documents\Visual Studio 2017\Projects\MalaDiretaWord\MalaDiretaWord\bin\Debug\MalaDiretaWord.dll
+C:\Users\wesleyel\Documents\Visual Studio 2017\Projects\MalaDiretaWord\MalaDiretaWord\bin\Debug\MalaDiretaWord.pdb
+C:\Users\wesleyel\Documents\Visual Studio 2017\Projects\MalaDiretaWord\MalaDiretaWord\obj\Debug\MalaDiretaWord.csproj.CoreCompileInputs.cache
+C:\Users\wesleyel\Documents\Visual Studio 2017\Projects\MalaDiretaWord\MalaDiretaWord\obj\Debug\MalaDiretaWord.dll
+C:\Users\wesleyel\Documents\Visual Studio 2017\Projects\MalaDiretaWord\MalaDiretaWord\obj\Debug\MalaDiretaWord.pdb
+C:\Users\a053463-old\SVN\seguranca\bibliotecas\MalaDiretaWord\bin\Debug\MalaDiretaWord.dll
+C:\Users\a053463-old\SVN\seguranca\bibliotecas\MalaDiretaWord\bin\Debug\MalaDiretaWord.pdb
+C:\Users\a053463-old\SVN\seguranca\bibliotecas\MalaDiretaWord\obj\Debug\MalaDiretaWord.csproj.CoreCompileInputs.cache
+C:\Users\a053463-old\SVN\seguranca\bibliotecas\MalaDiretaWord\obj\Debug\MalaDiretaWord.dll
+C:\Users\a053463-old\SVN\seguranca\bibliotecas\MalaDiretaWord\obj\Debug\MalaDiretaWord.pdb
+C:\Users\a053463-old\SVN\seguranca\bibliotecas\MalaDiretaWord\obj\Debug\MalaDiretaWord.csprojAssemblyReference.cache

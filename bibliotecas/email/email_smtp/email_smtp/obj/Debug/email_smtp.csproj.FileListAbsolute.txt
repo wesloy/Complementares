@@ -1,0 +1,6 @@
+C:\Users\a053463-old\SVN\seguranca\bibliotecas\email\email_smtp\email_smtp\bin\Debug\email_smtp.dll
+C:\Users\a053463-old\SVN\seguranca\bibliotecas\email\email_smtp\email_smtp\bin\Debug\email_smtp.pdb
+C:\Users\a053463-old\SVN\seguranca\bibliotecas\email\email_smtp\email_smtp\obj\Debug\email_smtp.csproj.CoreCompileInputs.cache
+C:\Users\a053463-old\SVN\seguranca\bibliotecas\email\email_smtp\email_smtp\obj\Debug\email_smtp.dll
+C:\Users\a053463-old\SVN\seguranca\bibliotecas\email\email_smtp\email_smtp\obj\Debug\email_smtp.pdb
+C:\Users\a053463-old\SVN\seguranca\bibliotecas\email\email_smtp\email_smtp\obj\Debug\email_smtp.csprojAssemblyReference.cache
