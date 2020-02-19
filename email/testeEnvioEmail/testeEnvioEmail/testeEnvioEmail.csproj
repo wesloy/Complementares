@@ -41,6 +41,9 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\bibliotecas\email\email_smtp\email_smtp\bin\Debug\email_smtp.dll</HintPath>
     </Reference>
+    <Reference Include="OpenPop, Version=2.0.6.1120, Culture=neutral, PublicKeyToken=6bdb97f144b7efc8, processorArchitecture=MSIL">
+      <HintPath>..\packages\OpenPop.NET.2.0.6.1120\lib\net40\OpenPop.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -60,10 +63,20 @@
     <Compile Include="frmEnvioEmail.Designer.cs">
       <DependentUpon>frmEnvioEmail.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmReceberEmail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReceberEmail.Designer.cs">
+      <DependentUpon>frmReceberEmail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LeitorEmails.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="frmEnvioEmail.resx">
       <DependentUpon>frmEnvioEmail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReceberEmail.resx">
+      <DependentUpon>frmReceberEmail.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -75,6 +88,7 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

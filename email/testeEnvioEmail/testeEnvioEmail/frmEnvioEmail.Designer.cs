@@ -47,6 +47,7 @@
             this.label7 = new System.Windows.Forms.Label();
             this.txtDE = new System.Windows.Forms.TextBox();
             this.btnEnviarSDK = new System.Windows.Forms.Button();
+            this.btnLerEmail = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnEnviar
@@ -111,7 +112,7 @@
             // 
             this.txtAssunto.Location = new System.Drawing.Point(71, 127);
             this.txtAssunto.Name = "txtAssunto";
-            this.txtAssunto.Size = new System.Drawing.Size(632, 20);
+            this.txtAssunto.Size = new System.Drawing.Size(714, 20);
             this.txtAssunto.TabIndex = 3;
             // 
             // label4
@@ -128,7 +129,7 @@
             this.lbAnexos.FormattingEnabled = true;
             this.lbAnexos.Location = new System.Drawing.Point(71, 153);
             this.lbAnexos.Name = "lbAnexos";
-            this.lbAnexos.Size = new System.Drawing.Size(468, 56);
+            this.lbAnexos.Size = new System.Drawing.Size(550, 56);
             this.lbAnexos.TabIndex = 9;
             // 
             // label5
@@ -145,7 +146,7 @@
             this.txtMsg.Location = new System.Drawing.Point(71, 215);
             this.txtMsg.Multiline = true;
             this.txtMsg.Name = "txtMsg";
-            this.txtMsg.Size = new System.Drawing.Size(632, 187);
+            this.txtMsg.Size = new System.Drawing.Size(714, 187);
             this.txtMsg.TabIndex = 5;
             // 
             // label6
@@ -159,7 +160,7 @@
             // 
             // btnAnexar
             // 
-            this.btnAnexar.Location = new System.Drawing.Point(545, 153);
+            this.btnAnexar.Location = new System.Drawing.Point(627, 155);
             this.btnAnexar.Name = "btnAnexar";
             this.btnAnexar.Size = new System.Drawing.Size(158, 56);
             this.btnAnexar.TabIndex = 4;
@@ -203,11 +204,22 @@
             this.btnEnviarSDK.UseVisualStyleBackColor = true;
             this.btnEnviarSDK.Click += new System.EventHandler(this.btnEnviarSDK_Click);
             // 
+            // btnLerEmail
+            // 
+            this.btnLerEmail.Location = new System.Drawing.Point(709, 36);
+            this.btnLerEmail.Name = "btnLerEmail";
+            this.btnLerEmail.Size = new System.Drawing.Size(76, 72);
+            this.btnLerEmail.TabIndex = 16;
+            this.btnLerEmail.Text = "Leitura E-mail";
+            this.btnLerEmail.UseVisualStyleBackColor = true;
+            this.btnLerEmail.Click += new System.EventHandler(this.btnLerEmail_Click);
+            // 
             // frmEnviarEmail
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(724, 445);
+            this.ClientSize = new System.Drawing.Size(810, 445);
+            this.Controls.Add(this.btnLerEmail);
             this.Controls.Add(this.btnEnviarSDK);
             this.Controls.Add(this.label7);
             this.Controls.Add(this.txtDE);
@@ -256,6 +268,7 @@
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.TextBox txtDE;
         private System.Windows.Forms.Button btnEnviarSDK;
+        private System.Windows.Forms.Button btnLerEmail;
     }
 }
 

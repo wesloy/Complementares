@@ -1,10 +1,14 @@
-﻿using System;
+﻿using System.Linq;
 using System.Net.Mail;
 using System.Windows.Forms;
-using System.Configuration;
+using System;
 using System.Collections.Generic;
+using System.Configuration;
+
 
 namespace testeEnvioEmail {
+
+    
     public partial class frmEnviarEmail : Form {
 
 
@@ -91,15 +95,14 @@ namespace testeEnvioEmail {
             foreach (string file in lbAnexos.Items) { listaAnexos.Add(file); }
             envio.Anexos = listaAnexos;
 
-            if (envio.enviarEmail(envio))  {
+            if (envio.enviarEmail(envio)) {
                 MessageBox.Show("E-mail enviado com sucesso!", "Envio de E-mail");
             } else {
                 MessageBox.Show("Falha no envio de E-mail!", "Envio de E-mail");
             }
         }
 
-        private void btnEnviarSDK_Click(object sender, EventArgs e)
-        {
+        private void btnEnviarSDK_Click(object sender, EventArgs e) {
             email_dynamics.email_dynamics email = new email_dynamics.email_dynamics();
 
             email.Assunto = txtAssunto.Text;
@@ -107,7 +110,7 @@ namespace testeEnvioEmail {
 
             //Para
             List<string> para = new List<string>();
-            string[] _para = txtPara.Text.Split(';');            
+            string[] _para = txtPara.Text.Split(';');
             foreach (var item in _para) { para.Add(item); }
             email.Para = para;
 
@@ -127,16 +130,19 @@ namespace testeEnvioEmail {
             List<string> listaAnexos = new List<string>();
             foreach (string file in lbAnexos.Items) { listaAnexos.Add(file); }
             email.Anexos = listaAnexos;
-            
-            
-            if (email.envio(email.Assunto, email.Mensagem, email.Para, email.Cc, email.CcO, email.Anexos))
-            {
+
+
+            if (email.envio(email.Assunto, email.Mensagem, email.Para, email.Cc, email.CcO, email.Anexos)) {
                 MessageBox.Show("E-mail enviado com sucesso!", "Envio de E-mail");
-            }
-            else
-            {
+            } else {
                 MessageBox.Show("Falha no envio de E-mail!", "Envio de E-mail");
             }
+
+        }
+
+        private void btnLerEmail_Click(object sender, EventArgs e) {
+            frmReceberEmail receberEmail = new frmReceberEmail();
+            receberEmail.Show();
 
         }
     }
