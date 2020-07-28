@@ -9,3 +9,15 @@ C:\Users\wesleyel\Documents\SVN\seguranca\Uteis\obj\Debug\Uteis.vbproj.CoreCompi
 C:\Users\wesleyel\Documents\SVN\seguranca\Uteis\obj\Debug\Uteis.dll
 C:\Users\wesleyel\Documents\SVN\seguranca\Uteis\obj\Debug\Uteis.xml
 C:\Users\wesleyel\Documents\SVN\seguranca\Uteis\obj\Debug\Uteis.pdb
+C:\Users\wesleyel\Documents\SVN_NOVA\seguranca\Complementares\Uteis\bin\Debug\Uteis.dll
+C:\Users\wesleyel\Documents\SVN_NOVA\seguranca\Complementares\Uteis\bin\Debug\Uteis.pdb
+C:\Users\wesleyel\Documents\SVN_NOVA\seguranca\Complementares\Uteis\bin\Debug\Uteis.xml
+C:\Users\wesleyel\Documents\SVN_NOVA\seguranca\Complementares\Uteis\obj\Debug\Uteis.vbprojAssemblyReference.cache
+C:\Users\wesleyel\Documents\SVN_NOVA\seguranca\Complementares\Uteis\obj\Debug\Interop.ADODB.dll
+C:\Users\wesleyel\Documents\SVN_NOVA\seguranca\Complementares\Uteis\obj\Debug\Uteis.vbproj.ResolveComReference.cache
+C:\Users\wesleyel\Documents\SVN_NOVA\seguranca\Complementares\Uteis\obj\Debug\Uteis.Resources.resources
+C:\Users\wesleyel\Documents\SVN_NOVA\seguranca\Complementares\Uteis\obj\Debug\Uteis.vbproj.GenerateResource.cache
+C:\Users\wesleyel\Documents\SVN_NOVA\seguranca\Complementares\Uteis\obj\Debug\Uteis.vbproj.CoreCompileInputs.cache
+C:\Users\wesleyel\Documents\SVN_NOVA\seguranca\Complementares\Uteis\obj\Debug\Uteis.dll
+C:\Users\wesleyel\Documents\SVN_NOVA\seguranca\Complementares\Uteis\obj\Debug\Uteis.xml
+C:\Users\wesleyel\Documents\SVN_NOVA\seguranca\Complementares\Uteis\obj\Debug\Uteis.pdb

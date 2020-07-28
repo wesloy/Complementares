@@ -1142,6 +1142,22 @@ Public Class Helpers
         End Try
     End Function
 
+    Public Function formataStringDataYYYYMMDD(strData As String) As Date
+        Try
+
+            Dim dtFormatada As Date
+            'Dim milenio As Long = 2000
+            strData = Replace(strData, "/", String.Empty)
+            If strData.ToString <> "00000000" AndAlso strData.ToString <> "000" AndAlso Not String.IsNullOrEmpty(strData) Then
+                dtFormatada = CDate(DateSerial(Microsoft.VisualBasic.Mid(strData, 1, 4), Microsoft.VisualBasic.Mid(strData, 3, 2), Microsoft.VisualBasic.Mid(strData, 7, 2)))
+            Else : Return Nothing
+            End If
+            Return dtFormatada
+        Catch ex As Exception
+            Return Nothing
+        End Try
+    End Function
+
     ''' <summary>
     ''' Formata uma string de data no formato Date
     ''' Data criação/modificação: 02/01/2018
@@ -1764,14 +1780,12 @@ Public Class Helpers
             Return Nothing
         End Try
     End Function
-
     Public Function FormatoDataUniversal() As String
         Return "yyyy-MM-dd"
     End Function
     Public Function FormatoDataHoraUniversal() As String
         Return "yyyy-MM-dd HH:mm:ss"
     End Function
-
     Public Function PreencheListViewColunasDinamicas(ByVal lst As ListView,
                                                         ByVal dt As DataTable) As ListView
         Try
@@ -1810,7 +1824,6 @@ Public Class Helpers
             Return lst
         End Try
     End Function
-
     Public Function capturaFinalCartao(cartao As String) As String
         Try
             If cartao.Length = 15 Then
