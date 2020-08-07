@@ -1123,8 +1123,8 @@ Public Class Helpers
 
     ''' <summary>
     ''' Formata uma string de data no formato Date
-    ''' Data criação/modificação: 17/04/2019
     ''' Formato de entrada: DD/MM/YYYY ou DDMMYYYY
+    ''' Data criação/modificação: 17/04/2019
     ''' </summary>  
     Public Function formataStringDataDDMMYYYY(strData As String) As Date
         Try
@@ -1142,6 +1142,13 @@ Public Class Helpers
         End Try
     End Function
 
+    ''' <summary>
+    ''' Formata uma string de data no formato Date
+    ''' Formato de entrada: YYYYMMDD
+    ''' Data criação/modificação: 05/08/2020
+    ''' </summary>
+    ''' <param name="strData"></param>
+    ''' <returns></returns>
     Public Function formataStringDataYYYYMMDD(strData As String) As Date
         Try
 
@@ -1149,7 +1156,7 @@ Public Class Helpers
             'Dim milenio As Long = 2000
             strData = Replace(strData, "/", String.Empty)
             If strData.ToString <> "00000000" AndAlso strData.ToString <> "000" AndAlso Not String.IsNullOrEmpty(strData) Then
-                dtFormatada = CDate(DateSerial(Microsoft.VisualBasic.Mid(strData, 1, 4), Microsoft.VisualBasic.Mid(strData, 3, 2), Microsoft.VisualBasic.Mid(strData, 7, 2)))
+                dtFormatada = CDate(DateSerial(Microsoft.VisualBasic.Mid(strData, 1, 4), Microsoft.VisualBasic.Mid(strData, 5, 2), Microsoft.VisualBasic.Mid(strData, 7, 2)))
             Else : Return Nothing
             End If
             Return dtFormatada
@@ -1160,8 +1167,8 @@ Public Class Helpers
 
     ''' <summary>
     ''' Formata uma string de data no formato Date
-    ''' Data criação/modificação: 02/01/2018
     ''' Formato de entrada: 11/04/19
+    ''' Data criação/modificação: 02/01/2018
     ''' </summary>  
     Public Function formataStringDataDDMMYY(strData As String) As Date
         Try
