@@ -40,7 +40,7 @@ Public Class Conexao
             strconexao += "Data Source=" & servidor_bd & ";"
             strconexao += "Initial Catalog=" & banco_dados & ";"
             strconexao += "User Id=" & user_bd & ";"
-            strconexao += "Password=" & password_bd & ";Connect Timeout=5000"
+            strconexao += "Password=" & password_bd & ";Connect Timeout=30000"
         End If
 
         Return strconexao

@@ -34,8 +34,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="email_dynamics">
-      <HintPath>..\..\bibliotecas\email\email_dynamics\email_dynamics\bin\Debug\email_dynamics.dll</HintPath>
+    <Reference Include="email_dynamics, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\email_dynamics\email_dynamics\bin\Debug\email_dynamics.dll</HintPath>
     </Reference>
     <Reference Include="email_smtp, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
