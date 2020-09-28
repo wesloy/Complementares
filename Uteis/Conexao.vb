@@ -53,6 +53,7 @@ Public Class Conexao
                 With conexao
                     .ConnectionString = getStringConexao()
                     .Mode = ConnectModeEnum.adModeReadWrite 'modo de conexao leitura e escrita
+                    .CommandTimeout = 0
                     .Open()
                 End With
             End If
